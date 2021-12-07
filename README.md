@@ -34,7 +34,6 @@ a data set dedicated to the cost of treatment of different patients. The cost of
 
 * Python
 * Jupyter Notebook
-* PowerPoint for presentation
 
 #### Libraries
 * Pandas
