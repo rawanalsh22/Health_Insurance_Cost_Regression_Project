@@ -8,7 +8,9 @@ project 2 : Linear Regression Project
 ## Background
 In this project, we will use data from the [Kaggle](https://www.kaggle.com/mirichoi0218/insurance) it is a Medical Cost Personal Datasets , dedicated to the price of treatment of various patients. the price of treatment depends on several factors: designation, form of clinic, town of residence, age then on. we've got no data on the diagnosis of patients. However, we have alternative information which will facilitate U.S.A. 
 
-> * Our TARGET from this project is to build a linear regression model that predict how many days need to complete the each case.
+
+### Prediction
+> * Our TARGET from this project is to build a linear regression model that predict insurance costs.
 
 
 ## Data Description 
@@ -27,10 +29,6 @@ a data set dedicated to the cost of treatment of different patients. The cost of
 > * Number of rows = 1338 rows
 > * Number of columns = 7 columns
 
-
-
-## Prediction
-Can we accurately predict insurance costs?
 ## tools
 #### Technologies
 
